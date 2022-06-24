@@ -7,5 +7,6 @@ API que fornece as orações e leituras do dia da Santa Missa (liturgia dária).
 
 > Ou:
 > http://liturgia.herokuapp.com/?dia=[dia]&mes=[mês]
+> Caso o mês não seja definido, o padrão será o mês atual.
 ---
 <img src="resultado.png">
