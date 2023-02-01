@@ -11,4 +11,4 @@ API que fornece as orações e leituras do dia da Santa Missa (liturgia dária).
 > https://liturgia.up.railway.app/?dia=[dia]&mes=[mês] <br>
 > Caso o mês não seja definido, o padrão será o mês atual.
 ---
-<img src="resultado.jpg">
+<img src="resultado.png">
