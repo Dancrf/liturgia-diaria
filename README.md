@@ -90,7 +90,7 @@ Também retornará a Liturgia do dia 20 do mês de março.
 
 ## Resultado:
 
-![Resultado](https://raw.githubusercontent.com/Dancrf/liturgia-diaria/main/resultado.png)
+![Resultado](https://raw.githubusercontent.com/Dancrf/liturgia-diaria/main/resultado.jpg)
 
 
 ## Últimas atualizações
