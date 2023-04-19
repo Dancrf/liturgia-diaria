@@ -35,7 +35,7 @@ Resultado:
     },
     "salmo": {
       "referencia": "Sl 15",
-      "refrão": "Vós me ensinais vosso caminho para a vida; junto de vós felicidade sem limites!",
+      "refrao": "Vós me ensinais vosso caminho para a vida; junto de vós felicidade sem limites!",
       "texto": "— Guardai-me, ó Deus, porque em vós me refugio! Digo ao Senhor: “Somente vós sois meu Senhor: nenhum bem eu posso achar fora de vós!” Ó Senhor, sois minha herança e minha taça, meu destino está seguro em vossas mãos! \n— Eu bendigo o Senhor, que me aconselha, e até de noite me adverte o coração. Tenho sempre o Senhor ante meus olhos, pois se o tenho a meu lado não vacilo. \n— Eis por que meu coração está em festa, minha alma rejubila de alegria, e até meu corpo no repouso está tranquilo; pois não haveis de me deixar entregue à morte, nem vosso amigo conhecer a corrupção. \n— Vós me ensinais vosso caminho para a vida; junto a vós, felicidade sem limites, delícia eterna e alegria ao vosso lado"
     },
     "evangelho": {
