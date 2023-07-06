@@ -3,7 +3,8 @@
 
 API que fornece as orações e leituras do dia da Santa Missa (liturgia dária).
 
-
+🛑 **ATENÇÃO:**
+*Infelizmente o serviço da railway.app no qual hospedava a aplicação deixou de fornecer um plano gratuito. Por isso, não tenho como manter a API até achar alguma alternativa. Se alguém tiver alguma sugestão, pode abrir uma issue!*
 
 ## Documentação da API
 
