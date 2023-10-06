@@ -71,7 +71,7 @@ Retornará a Liturgia do dia 20 do mês de março.
 #### Para retornar a liturgia de um dia específico através de parâmetros
 
 ```http
-  GET https://liturgia.up.railway.app/${dia}-${mes}
+  GET https://liturgia.up.railway.app/{dia}-{mes}
 ```
 
 | Parâmetro   | Tipo       | Descrição                           |
