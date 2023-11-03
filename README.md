@@ -7,8 +7,12 @@ API que fornece as orações e leituras do dia da Santa Missa (liturgia dária).
 
 #### Para retornar a liturgia do dia
 
-```http
+```
   GET https://liturgia.up.railway.app/
+```
+ou
+```
+  GET http://api.liturgiadiaria.site/
 ```
 
 Resultado:
