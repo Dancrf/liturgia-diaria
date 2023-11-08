@@ -12,7 +12,7 @@ API que fornece as orações e leituras do dia da Santa Missa (liturgia dária).
 ```
 ou
 ```
-  GET http://liturgiadiaria.site/
+  GET https://liturgiadiaria.site/
 ```
 
 Resultado:
