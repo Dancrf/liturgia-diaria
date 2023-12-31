@@ -53,7 +53,7 @@ Resultado:
 
 #### Para retornar a liturgia de um dia específico através de query
 
-```http
+```
   GET https://liturgia.up.railway.app/?dia=[dia]&mes=[mes]
 ```
 
@@ -64,7 +64,7 @@ Resultado:
 
 Exemplo:
 
-```http
+```
 https://liturgia.up.railway.app/?dia=20&mes=03
 ```
 Retornará a Liturgia do dia 20 do mês de março.
@@ -75,7 +75,7 @@ Retornará a Liturgia do dia 20 do mês de março.
 
 #### Para retornar a liturgia de um dia específico através de parâmetros
 
-```http
+```
   GET https://liturgia.up.railway.app/{dia}-{mes}
 ```
 
@@ -86,7 +86,7 @@ Retornará a Liturgia do dia 20 do mês de março.
 
 Exemplo:
 
-```http
+```
 https://liturgia.up.railway.app/20-03
 ```
 Também retornará a Liturgia do dia 20 do mês de março.
