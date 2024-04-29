@@ -2,7 +2,6 @@
 # Liturgia Diária
 
 API que fornece as orações e leituras do dia da Santa Missa (liturgia dária).
-### 🚨 Aviso: em breve o domínio será alterado definitivamente para https://liturgiadiaria.site/
 
 ## Documentação da API
 
