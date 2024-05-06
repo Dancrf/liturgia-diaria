@@ -8,10 +8,6 @@ API que fornece as orações e leituras do dia da Santa Missa (liturgia dária).
 #### Para retornar a liturgia do dia
 
 ```
-  GET https://liturgia.up.railway.app/
-```
-ou
-```
   GET https://liturgiadiaria.site/
 ```
 
@@ -53,7 +49,7 @@ Resultado:
 #### Para retornar a liturgia de um dia específico através de query
 
 ```
-  GET https://liturgia.up.railway.app/?dia=[dia]&mes=[mes]
+  GET https://liturgiadiaria.site/?dia=[dia]&mes=[mes]
 ```
 
 | Query   | Tipo       | Descrição                           |
@@ -64,7 +60,7 @@ Resultado:
 Exemplo:
 
 ```
-https://liturgia.up.railway.app/?dia=20&mes=03
+https://liturgiadiaria.site/?dia=20&mes=03
 ```
 Retornará a Liturgia do dia 20 do mês de março.
 
@@ -75,7 +71,7 @@ Retornará a Liturgia do dia 20 do mês de março.
 #### Para retornar a liturgia de um dia específico através de parâmetros
 
 ```
-  GET https://liturgia.up.railway.app/{dia}-{mes}
+  GET https://liturgiadiaria.site/{dia}-{mes}
 ```
 
 | Parâmetro   | Tipo       | Descrição                           |
@@ -86,7 +82,7 @@ Retornará a Liturgia do dia 20 do mês de março.
 Exemplo:
 
 ```
-https://liturgia.up.railway.app/20-03
+https://liturgiadiaria.site/20-03
 ```
 Também retornará a Liturgia do dia 20 do mês de março.
 
