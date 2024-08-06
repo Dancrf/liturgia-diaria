@@ -15,33 +15,38 @@ Resultado:
 
 ```json
 {
-    "data": "23/04/2023",
-    "liturgia": "3º Domingo de Páscoa",
-    "cor": "Branco",
-    "dia": "Ó Deus, que o vosso povo sempre exulte pela sua renovação espiritual, para que, tendo recuperado agora com alegria a condição de filhos de Deus, espere com plena confiança o dia da ressurreição. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.",
-    "oferendas": "Acolhei, ó Deus, as oferendas da vossa Igreja em festa. Vós que sois a causa de tão grande júbilo, concedei-lhe também a eterna alegria. Por Cristo, nosso Senhor.",
-    "comunhao": "Ó Deus, olhai com bondade o vosso povo e concedei aos que renovastes pelos vossos sacramentos a graça de chegar um dia à glória da ressurreição da carne. Por Cristo, nosso Senhor.",
-    "primeiraLeitura": {
-      "referencia": "At 2, 14. 22-33",
-      "titulo": "Leitura dos Atos dos Apóstolos",
-      "texto": "No dia de Pentecostes, 14Pedro de pé, junto com os onze apóstolos, levantou a voz e falou à multidão: 22“Homens de Israel, escutai estas palavras: Jesus de Nazaré foi um homem aprovado por Deus, junto de vós, pelos milagres, prodígios e sinais que Deus realizou, por meio dele, entre vós. Tudo isto vós bem o sabeis. 23Deus, em seu desígnio e previsão, determinou que Jesus fosse entregue pelas mãos dos ímpios, e vós o matastes, pregando-o numa cruz. 24Mas Deus ressuscitou a Jesus, libertando-o das angústias da morte, porque não era possível que ela o dominasse. 25Pois Davi dele diz: ‘Eu via sempre o Senhor diante de mim, pois está à minha direita para eu não vacilar. 26Alegrou-se por isso meu coração e exultou minha língua e até minha carne repousará na esperança. 27Porque não deixarás minha alma na região dos mortos nem permitirás que teu Santo experimente corrupção. 28Deste-me a conhecer os caminhos da vida e a tua presença me encherá de alegria’.,29Irmãos, seja-me permitido dizer com franqueza que o patriarca Davi morreu e foi sepultado e seu sepulcro está entre nós até hoje. 30Mas, sendo profeta, sabia que Deus lhe jurara solenemente que um de seus descendentes ocuparia o trono.,31É, portanto, a ressurreição de Cristo que previu e anunciou com as palavras: ‘Ele não foi abandonado na região dos mortos e sua carne não conheceu a corrupção’. 32Com efeito, Deus ressuscitou este mesmo Jesus e disto todos nós somos testemunhas. 33E agora, exaltado pela direita de Deus, Jesus recebeu o Espírito Santo que fora prometido pelo Pai, e o derramou, como estais vendo e ouvindo”."
-    },
-    "segundaLeitura": {
-      "referencia": "1Pd 1, 17-21",
-      "titulo": "Leitura da Primeira Carta de São Pedro",
-      "texto": "Caríssimos: 17Se invocais como Pai aquele que sem discriminação julga a cada um de acordo com as suas obras, vivei então respeitando a Deus durante o tempo de vossa migração neste mundo.,18Sabeis que fostes resgatados da vida fútil herdada de vossos pais, não por meio de coisas perecíveis, como a prata ou o ouro, 19mas pelo precioso sangue de Cristo, como de um cordeiro sem mancha nem defeito. 20Antes da criação do mundo, ele foi destinado para isso, e neste final dos tempos, ele apareceu, por amor de vós. 21Por ele é que alcançastes a fé em Deus. Deus o ressuscitou dos mortos e lhe deu a glória, e assim, a vossa fé e esperança estão em Deus."
-    },
-    "salmo": {
-      "referencia": "Sl 15",
-      "refrao": "Vós me ensinais vosso caminho para a vida; junto de vós felicidade sem limites!",
-      "texto": "— Guardai-me, ó Deus, porque em vós me refugio! Digo ao Senhor: “Somente vós sois meu Senhor: nenhum bem eu posso achar fora de vós!” Ó Senhor, sois minha herança e minha taça, meu destino está seguro em vossas mãos! \n— Eu bendigo o Senhor, que me aconselha, e até de noite me adverte o coração. Tenho sempre o Senhor ante meus olhos, pois se o tenho a meu lado não vacilo. \n— Eis por que meu coração está em festa, minha alma rejubila de alegria, e até meu corpo no repouso está tranquilo; pois não haveis de me deixar entregue à morte, nem vosso amigo conhecer a corrupção. \n— Vós me ensinais vosso caminho para a vida; junto a vós, felicidade sem limites, delícia eterna e alegria ao vosso lado"
-    },
-    "evangelho": {
-      "referencia": "Lc 24, 13-35",
-      "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Lucas",
-      "texto": "Naquele mesmo dia, o primeiro da semana, dois dos discípulos de Jesus iam para um povoado, chamado Emaús, distante onze quilômetros de Jerusalém. 14Conversavam sobre todas as coisas que tinham acontecido. 15Enquanto conversavam e discutiam, o próprio Jesus se aproximou e começou a caminhar com eles. 16Os discípulos, porém, estavam como que cegos, e não o reconheceram. 17Então Jesus perguntou: “O que ides conversando pelo caminho?” Eles pararam, com o rosto triste, 18e um deles, chamado Cléofas, lhe disse: “Tu és o único peregrino em Jerusalém que não sabe o que lá aconteceu nestes últimos dias?”19Ele perguntou: “O que foi?” Os discípulos responderam: “O que aconteceu com Jesus, o Nazareno, que foi um profeta poderoso em obras e palavras, diante de Deus e diante de todo o povo. 20Nossos sumos sacerdotes e nossos chefes o entregaram para ser condenado à morte e o crucificaram. 21Nós esperávamos que ele fosse libertar Israel, mas, apesar de tudo isso, já faz três dias que todas essas coisas aconteceram! 22É verdade que algumas mulheres do nosso grupo nos deram um susto. Elas foram de madrugada ao túmulo 23e não encontraram o corpo dele. Então voltaram, dizendo que tinham visto anjos e que estes afirmaram que Jesus está vivo. 24Alguns dos nossos foram ao túmulo e encontraram as coisas como as mulheres tinham dito. A ele, porém, ninguém o viu”.25Então Jesus lhes disse: “Como sois sem inteligência e lentos para crer em tudo o que os profetas falaram! 26Será que o Cristo não devia sofrer tudo isso para entrar na sua glória?”27E, começando por Moisés e passando pelos Profetas, explicava aos discípulos todas as passagens da Escritura que falavam a respeito dele. 28Quando chegaram perto do povoado para onde iam, Jesus fez de conta que ia mais adiante. 29Eles, porém, insistiram com Jesus, dizendo: “Fica conosco, pois já é tarde e a noite vem chegando!” Jesus entrou para ficar com eles. 30Quando se sentou à mesa com eles, tomou o pão, abençoou-o, partiu-o e lhes distribuía. 31Nisso os olhos dos discípulos se abriram e eles reconheceram Jesus. Jesus, porém, desapareceu da frente deles. 32Então um disse ao outro: “Não estava ardendo o nosso coração quando ele nos falava pelo caminho, e nos explicava as Escrituras?” 33Naquela mesma hora, eles se levantaram e voltaram para Jerusalém onde encontraram os Onze reunidos com os outros. 34E estes confirmaram: “Realmente, o Senhor ressuscitou e apareceu a Simão!” 35Então os dois contaram o que tinha acontecido no caminho, e como tinham reconhecido Jesus ao partir o pão."
-    }
+  "data": "11/08/2024",
+  "liturgia": "19º Domingo do Tempo Comum",
+  "cor": "Verde",
+  "dia": "Deus eterno e todo-poderoso, a quem, inspirados pelo Espírito Santo, ousamos chamar de Pai, fazei crescer em nossos corações o espírito de adoção filial, para merecermos entrar um dia na posse da herança prometida. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+  "oferendas": "Senhor, acolhei com misericórdia os dons que concedestes à vossa Igreja e ela agora vos apresenta. Transformai-os por vosso poder em sacramento da nossa salvação. Por Cristo, nosso Senhor.",
+  "comunhao": "Ó Senhor, a comunhão do vosso sacramento, que acabamos de receber, nos salve e nos confirme na luz da vossa verdade. Por Cristo, nosso Senhor.",
+  "primeiraLeitura": {
+    "referencia": "1Rs 19, 4-8",
+    "titulo": "Leitura do Primeiro Livro dos Reis",
+    "texto": "Naqueles dias, 4Elias entrou deserto adentro e caminhou o dia todo. Sentou-se finalmente debaixo de um junípero e pediu para si a morte, dizendo: “Agora basta, Senhor! Tira a minha vida, pois não sou melhor que meus pais”. 5E, deitando-se no chão, adormeceu à sombra do junípero. De repente, um anjo tocou-o e disse: “Levanta-te e come!”,6Ele abriu os olhos e viu junto à sua cabeça um pão assado debaixo da cinza e um jarro de água. Comeu, bebeu e tornou a dormir. 7Mas o anjo do Senhor veio pela segunda vez, tocou-o e disse: “Levanta-te e come! Ainda tens um caminho longo a percorrer”. 8Elias levantou-se, comeu e bebeu, e, com a força desse alimento, andou quarenta dias e quarenta noites, até chegar ao Horeb, o monte de Deus."
   },
+  "segundaLeitura": { // Caso não haja segunda Leitura (dia de semana) a propriedade retornará a string "Não há segunda leitura hoje!"
+    "referencia": "Ef 4, 30-5, 2",
+    "titulo": "Leitura da Carta de São Paulo aos Efésios",
+    "texto": "Irmãos: 30Não contristeis o Espírito Santo com o qual Deus vos marcou como com um selo para o dia da libertação. 31Toda a amargura, irritação, cólera, gritaria, injúrias, tudo isso deve desaparecer do meio de vós, como toda espécie de maldade. 32Sede bons uns para com os outros, sede compassivos; perdoai-vos mutuamente, como Deus vos perdoou por meio de Cristo. 5, 1Sede imitadores de Deus, como filhos que ele ama. 2Vivei no amor, como Cristo nos amou e se entregou a si mesmo a Deus por nós, em oblação e sacrifício de suave odor."
+  },
+  "salmo": {
+    "referencia": "Sl 33",
+    "refrao": "Provai e vede quão suave é o Senhor!",
+    "texto": "— Bendirei o Senhor Deus em todo o tempo, seu louvor estará sempre em minha boca. Minha alma se gloria no Senhor; que ouçam os humildes e se alegrem! \n— Comigo engrandecei ao Senhor Deus, exaltemos todos juntos o seu nome! Todas as vezes que o busquei, ele me ouviu, e de todos os temores me livrou. \n— Contemplai a sua face e alegrai-vos, e vosso rosto não se cubra de vergonha! Este infeliz gritou a Deus, e foi ouvido, e o Senhor o libertou de toda angústia. \n— O anjo do Senhor vem acampar ao redor dos que o temem, e os salva. Provai e vede quão suave é o Senhor! Feliz o homem que tem nele o seu refúgio"
+  },
+  "evangelho": {
+    "referencia": "Jo 6, 41-51",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo João",
+    "texto": "Naquele tempo, 41os judeus começaram a murmurar a respeito de Jesus, porque havia dito: “Eu sou o pão que desceu do céu”. 42Eles comentavam: “Não é este Jesus, o filho de José? Não conhecemos seu pai e sua mãe? Como então pode dizer que desceu do céu?”43Jesus respondeu: “Não murmureis entre vós. 44Ninguém pode vir a mim, se o Pai que me enviou não o atrai. E eu o ressuscitarei no último dia. 45Está escrito nos Profetas: ‘Todos serão discípulos de Deus’. Ora, todo aquele que escutou o Pai e por ele foi instruído, vem a mim. 46Não que alguém já tenha visto o Pai. Só aquele que vem de junto de Deus viu o Pai. 47Em verdade, em verdade vos digo, quem crê, possui a vida eterna.48Eu sou o pão da vida. 49Os vossos pais comeram o maná no deserto e, no entanto, morreram. 50Eis aqui o pão que desce do céu: quem dele comer, nunca morrerá. 51Eu sou o pão vivo descido do céu. Quem comer deste pão viverá eternamente. E o pão que eu darei é a minha carne dada para a vida do mundo”."
+  },
+  "antifonas": {
+    "entrada": "Lembrai-vos, Senhor, da vossa aliança, e nunca esqueçais a vida dos vossos pobres. Levantai-vos Senhor, e julgai vossa causa, e não fecheis o ouvido ao clamor dos que vos procuram. (Cf. Sl 73, 20. 19. 22. 23)",
+    "ofertorio": "A vós, porém, ó meu Senhor, eu me confio, e afirmo que só vós sois o meu Deus! Eu entrego em vossas mãos o meu destino; libertai-me do inimigo e do opressor! (Cf. LH: Sl 30, 15. 16)",
+    "comunhao": "Glorifica o Senhor, Jerusalém, ele te dá como alimento a flor do trigo. (Cf. SI 147, 12. 14)"
+  }
+}
 ```
 
 #
