@@ -1,7 +1,7 @@
 
 # Liturgia Diária
 
-API que fornece as orações e leituras do dia da Santa Missa (liturgia dária).
+API que fornece as orações e leituras do dia da Santa Missa (liturgia diária).
 
 ## Documentação da API
 
