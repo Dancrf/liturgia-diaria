@@ -26,7 +26,7 @@ Resultado:
     "titulo": "Leitura do Primeiro Livro dos Reis",
     "texto": "Naqueles dias, 4Elias entrou deserto adentro e caminhou o dia todo. Sentou-se finalmente debaixo de um junípero e pediu para si a morte, dizendo: “Agora basta, Senhor! Tira a minha vida, pois não sou melhor que meus pais”. 5E, deitando-se no chão, adormeceu à sombra do junípero. De repente, um anjo tocou-o e disse: “Levanta-te e come!”,6Ele abriu os olhos e viu junto à sua cabeça um pão assado debaixo da cinza e um jarro de água. Comeu, bebeu e tornou a dormir. 7Mas o anjo do Senhor veio pela segunda vez, tocou-o e disse: “Levanta-te e come! Ainda tens um caminho longo a percorrer”. 8Elias levantou-se, comeu e bebeu, e, com a força desse alimento, andou quarenta dias e quarenta noites, até chegar ao Horeb, o monte de Deus."
   },
-  "segundaLeitura": { // Caso não haja segunda Leitura (dia de semana) a propriedade retornará a string "Não há segunda leitura hoje!"
+  "segundaLeitura": { // Caso não haja segunda Leitura (dia de semana), retornará a string "Não há segunda leitura hoje!"
     "referencia": "Ef 4, 30-5, 2",
     "titulo": "Leitura da Carta de São Paulo aos Efésios",
     "texto": "Irmãos: 30Não contristeis o Espírito Santo com o qual Deus vos marcou como com um selo para o dia da libertação. 31Toda a amargura, irritação, cólera, gritaria, injúrias, tudo isso deve desaparecer do meio de vós, como toda espécie de maldade. 32Sede bons uns para com os outros, sede compassivos; perdoai-vos mutuamente, como Deus vos perdoou por meio de Cristo. 5, 1Sede imitadores de Deus, como filhos que ele ama. 2Vivei no amor, como Cristo nos amou e se entregou a si mesmo a Deus por nós, em oblação e sacrifício de suave odor."
