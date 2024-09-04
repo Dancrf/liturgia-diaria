@@ -96,6 +96,6 @@ Também retornará a Liturgia do dia 20 do mês de março.
 ![Resultado](https://raw.githubusercontent.com/Dancrf/liturgia-diaria/main/resultado.jpg)
 
 
-## Últimas atualizações
+### :)
 
-Foram corrigidos erros que impediam a visualização da Liturgia do dia, bem como a atualização dos dados e refatoramento do código.
+- [livepix.gg/brazil](https://livepix.gg/brazil)
