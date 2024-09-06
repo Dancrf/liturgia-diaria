@@ -96,6 +96,6 @@ Também retornará a Liturgia do dia 20 do mês de março.
 ![Resultado](https://raw.githubusercontent.com/Dancrf/liturgia-diaria/main/resultado.jpg)
 
 
-### Caso deseja contribuir com a manutenção do domínio, será de grande ajuda:
+### Caso deseje contribuir com a manutenção do domínio, será de grande ajuda:
 
 - [livepix.gg/brazil](https://livepix.gg/brazil)
