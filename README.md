@@ -3,6 +3,9 @@
 
 API que fornece as orações e leituras do dia da Santa Missa (liturgia diária).
 
+## ⚠️ Aviso: 
+Por falta de recursos, não conseguirei renovar o domínio que expirará em 02 NOV. O valor ficou em R$ 171,00
+
 ## Documentação da API
 
 #### Para retornar a liturgia do dia
