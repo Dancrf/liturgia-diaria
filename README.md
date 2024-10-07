@@ -14,6 +14,12 @@ Por falta de recursos, não conseguirei renovar o domínio que expirará em 02 N
   GET https://liturgiadiaria.site/
 ```
 
+ou
+
+```
+  GET https://liturgia.up.railway.app/
+```
+
 Resultado:
 
 ```json
