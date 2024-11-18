@@ -4,7 +4,8 @@
 API que fornece as orações e leituras do dia da Santa Missa (liturgia diária).
 
 ## ⚠️ Aviso: 
-Por falta de recursos, não conseguirei renovar o domínio (liturgiadiaria.site) que expirará em 02 NOV. O valor ficou em R$ 171,98
+Por falta de recursos, não conseguirei renovar o domínio (liturgiadiaria.site) que expirará em 02 NOV. O valor ficou em R$ 171,98.
+A API continuará acessível através do link: https://liturgia.up.railway.app/
 
 ## Documentação da API
 
