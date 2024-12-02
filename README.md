@@ -65,14 +65,19 @@ Resultado:
 | :---------- | :--------- | :---------------------------------- |
 | `dia` | `string` | **Obrigatório**. O dia da liturgia |
 | `mes` | `string` | O mês que deseja *(por padrão o mês atual)* |
+| `ano` | `string` | O ano que deseja *(por padrão o ano atual)* |
 
 Exemplo:
 
 ```
 https://liturgia.up.railway.app/?dia=20&mes=03
 ```
-Retornará a Liturgia do dia 20 do mês de março.
+Retornará a Liturgia do dia 20 do mês de março deste ano.
 
+```
+https://liturgia.up.railway.app/?dia=20&mes=03&ano=2025
+```
+Retornará a Liturgia do dia 20 do mês de março de 2025.
 
 #
 
@@ -87,6 +92,7 @@ Retornará a Liturgia do dia 20 do mês de março.
 | :---------- | :--------- | :---------------------------------- |
 | `dia` | `string` | **Obrigatório**. O dia da liturgia |
 | `mes` | `string` | O mês que deseja *(por padrão o mês atual)* |
+| `ano` | `string` | O ano que deseja *(por padrão o ano atual)* |
 
 Exemplo:
 
