@@ -53,6 +53,14 @@ Resultado:
 }
 ```
 
+A propriedade cor pode retornar as seguintes strings:
+ - Verde
+ - Vermelho
+ - Roxo
+ - Rosa
+ - Branco
+
+
 #
 
 #### Para retornar a liturgia de um dia específico através de query
