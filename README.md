@@ -3,10 +3,6 @@
 
 API que fornece as orações e leituras do dia da Santa Missa (liturgia diária).
 
-## ⚠️ Aviso: 
-Por falta de recursos, não conseguirei renovar o domínio (liturgiadiaria.site) que expirará em 02 NOV. O valor ficou em R$ 171,98.
-A API continuará acessível através do link: https://liturgia.up.railway.app/
-
 ## Documentação da API
 
 #### Para retornar a liturgia do dia
@@ -47,7 +43,6 @@ Resultado:
   },
   "antifonas": {
     "entrada": "Lembrai-vos, Senhor, da vossa aliança, e nunca esqueçais a vida dos vossos pobres. Levantai-vos Senhor, e julgai vossa causa, e não fecheis o ouvido ao clamor dos que vos procuram. (Cf. Sl 73, 20. 19. 22. 23)",
-    "ofertorio": "A vós, porém, ó meu Senhor, eu me confio, e afirmo que só vós sois o meu Deus! Eu entrego em vossas mãos o meu destino; libertai-me do inimigo e do opressor! (Cf. LH: Sl 30, 15. 16)",
     "comunhao": "Glorifica o Senhor, Jerusalém, ele te dá como alimento a flor do trigo. (Cf. SI 147, 12. 14)"
   }
 }
@@ -112,6 +107,11 @@ Também retornará a Liturgia do dia 20 do mês de março.
 ## Resultado:
 
 ![Resultado](https://raw.githubusercontent.com/Dancrf/liturgia-diaria/main/resultado.jpg)
+
+
+## ⚠️ Aviso: 
+Por falta de recursos, não conseguirei renovar o domínio (liturgiadiaria.site) que expirará em 02 NOV. O valor ficou em R$ 171,98.
+A API continuará acessível através do link: https://liturgia.up.railway.app/
 
 
 ### Caso deseje contribuir com a manutenção do domínio, será de grande ajuda:
