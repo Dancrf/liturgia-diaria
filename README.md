@@ -112,9 +112,9 @@ Também retornará a Liturgia do dia 20 do mês de março.
 
 
 ## ⚠️ Aviso: 
-Por falta de recursos, não conseguirei renovar o domínio (liturgiadiaria.site) que expirou em 02 NOV. O valor ficou em R$ 171,98.
+Por falta de recursos, não consegui renovar o domínio (liturgiadiaria.site) que expirou em 02 NOV. O valor ficou em R$ 171,98.
 
-A API continuará acessível através do link: https://liturgia.up.railway.app/ graças as doações que o projeto recebeu no último ano tanto pelo LivePIX quanto por aqui, pelo GitHub. Muito obrigado!
+A API continuará acessível através do link: https://liturgia.up.railway.app/ graças ao patrocínio que o projeto recebeu no último ano tanto pelo LivePIX quanto por aqui, pelo GitHub. Muito obrigado!
 
 
 ### Caso deseje contribuir com a manutenção do domínio, será de grande ajuda:
