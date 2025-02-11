@@ -1,13 +1,19 @@
 # Documentação da V2
 
+
+### Principais mudanças:
+
+  - Nesta versão, as orações e leituras foram agrupadas e cada leitura é retornada como um Array. Essa mudança foi implementada para suportar dias com mais de uma leitura ou evangelho (como na Vigília Pascal).
+  - A Oração do Dia agora é chamada de Coleta.
+  - Orações extras como a Benção do Fogo no Sábado Santo estarão na propriedade "extras" que retorna um Array.
+
+
 #### Para retornar a liturgia do dia
 
 ```
   GET https://liturgia.up.railway.app/v2/
 ```
 
-  - Nesta versão, as orações e leituras foram agrupadas e cada leitura é retornada como um Array. Essa mudança foi implementada para suportar dias com mais de uma leitura ou evangelho (como na Vigília Pascal).
-  - A Oração do Dia agora é chamada de Coleta.
 
 Resultado:
 
@@ -19,7 +25,8 @@ Resultado:
         "oracoes": {
             "coleta": "Deus, que fizestes de todos os renascidos em Cristo uma nação santa e um sacerdócio régio, concedei-nos a vontade e a força de fazer o que ordenais, para que o povo chamado à eternidade seja concorde na fé e justo nas ações. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
             "oferendas": "Acolhei, Senhor nós vos pedimos, as oferendas do nosso jejum; elas nos tornem dignos da graça do vosso perdão e nos conduzam às promessas eternas. Por Cristo, nosso Senhor.",
-            "comunhao": "Senhor, nós vos pedimos humildemente: assim como nos alimentais com o sacramento do Corpo e Sangue de Cristo, dai-nos participar da natureza divina. Por Cristo, nosso Senhor."
+            "comunhao": "Senhor, nós vos pedimos humildemente: assim como nos alimentais com o sacramento do Corpo e Sangue de Cristo, dai-nos participar da natureza divina. Por Cristo, nosso Senhor.",
+            "extras:" []
         },
         "leituras": {
             "primeiraLeitura": [
@@ -51,6 +58,16 @@ Resultado:
         }
     }
 ```
+
+Exemplo para orações extras:
+```json
+            "extras": [
+                {
+                    "titulo": "Benção do fogo",
+                    "texto": "Ó Deus, que pelo vosso Filho trouxestes o clarão da vossa luz àqueles que creem, santificai ✠ este fogo novo. Concedei que a festa da Páscoa acenda em nós tal desejo do céu, que possamos chegar purificados à festa da luz eterna. Por Cristo, nosso Senhor."
+                }
+```
+
 
 A propriedade cor pode retornar as seguintes strings:
  - Verde
