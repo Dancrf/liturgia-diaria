@@ -115,7 +115,7 @@ Resultado:
     ],
     "segundaLeitura": [
       {
-        "referencia": "Gn 22, 1-2. 9a. 10-13. 15-18 (Forma Longa)",
+        "referencia": "Gn 22, 1-2. 9a. 10-13. 15-18",
         "titulo": "Leitura do Livro do Gênesis",
         "texto": "Naqueles dias, 1Deus pôs Abraão à prova. Chamando-o, disse: “Abraão!” E ele respondeu: “Aqui estou”. 2E Deus disse: “Toma teu filho único, Isaac, a quem tanto amas, dirige-te à terra de Moriá, e oferece-o ali em holocausto sobre um monte que eu te indicar”. 9aChegados ao lugar indicado por Deus, Abraão ergueu um altar, colocou a lenha em cima, amarrou o filho e o pôs sobre a lenha em cima do altar. 10Depois, estendeu a mão, empunhando a faca para sacrificar o filho. 11E eis que o anjo do Senhor gritou do céu, dizendo: “Abraão! Abraão!” Ele respondeu: “Aqui estou!”. 12E o anjo lhe disse: “Não estendas a mão contra teu filho e não lhe faças nenhum mal! Agora sei que temes a Deus, pois não me recusaste teu filho único”. 13Abraão, erguendo os olhos, viu um carneiro preso num espinheiro pelos chifres; foi buscá-lo e ofereceu-o em holocausto no lugar do seu filho. 15O anjo do Senhor chamou Abraão, pela segunda vez, do céu, 16e lhe disse: “Juro por mim mesmo — oráculo do Senhor —, uma vez que agiste desse modo e não me recusaste teu filho único, 17eu te abençoarei e tornarei tão numerosa tua descendência como as estrelas do céu e como as areias da praia do mar. Teus descendentes conquistarão as cidades dos inimigos. 18Por tua descendência serão abençoadas todas as nações da terra, porque me obedeceste”."
       }
