@@ -18,7 +18,7 @@
 Resultado:
 
 ```json
-// http://liturgia.up.railway.app/v2/?dia=19&mes=04
+// http://liturgia.up.railway.app/v2/
 
 {
   "data": "19/04/2025",
@@ -184,6 +184,19 @@ A propriedade cor pode retornar as seguintes strings:
  - Roxo
  - Rosa
  - Branco
+
+### Para retornar um período de liturgias
+
+Você pode utilizar o parâmetro `periodo` para retornar múltiplas liturgias a partir da data atual. O valor informado representa a quantidade de dias que deseja retornar, incluindo o dia de hoje.
+
+```
+  GET https://liturgia.up.railway.app/v2/?periodo=7
+```
+
+Esse exemplo retorna as liturgias dos próximos 7 dias, incluindo a de hoje.
+> ⚠️ O valor máximo permitido para `periodo` é 7.
+>
+> Caso o parâmetro `periodo` seja utilizado junto com `dia`, `mes` ou `ano`, ele será ignorado. O período sempre parte da data atual.
 
 
 #
