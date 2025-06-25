@@ -5,7 +5,7 @@
 
   - Nesta versão, as orações e leituras foram agrupadas e cada leitura é retornada como um Array. Essa mudança foi implementada para suportar dias com mais de uma possibilidade para a leitura ou evangelho ou quando há mais leituras do que apenas a primeira e a segunda, como na Vigília Pascal.
   - A Oração do Dia agora é chamada de Coleta.
-  - Orações extras como a Benção do Fogo no Sábado Santo estarão na propriedade "extras" que retorna um Array. O mesmo serve para as leituras.
+  - Orações extras como a Benção do Fogo no Sábado Santo estarão na propriedade "extras" que retorna uma lista. O mesmo serve para as leituras.
 
 
 #### Para retornar a liturgia do dia
@@ -253,7 +253,7 @@ Também retornará a Liturgia do dia 20 do mês de março.
 
 ### Caso a liturgia não seja encontrada
 
-Quando não houver liturgia disponível para a data informada, a API retornará um erro com status 404 e um JSON informando que a liturgia não foi encontrada. Por exemplo:
+Quando não houver liturgia disponível para a data informada, a API retornará um erro com status 404 e um objeto informando que a liturgia não foi encontrada. Por exemplo:
 
 ```json
 {
