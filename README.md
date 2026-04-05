@@ -11,7 +11,7 @@ API que fornece as orações e leituras do dia da Santa Missa (liturgia diária)
 
 Visando suportar dias com mais de uma leitura ou evangelho como por exemplo, a Vigília Pascal (Sábado Santo), foi lançada a nova versão da API (v2) com algumas modificações.<br/>
 Confira a documentação para mais informações.<br/>
-A versão anterior (v1) continuará acessível.
+Ainda será definida a data de desativação da versão anterior (v1).
 
 
 
