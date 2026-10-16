@@ -245,7 +245,7 @@ Retornará a Liturgia do dia 20 do mês de março de 2024.
 Exemplo:
 
 ```
-https://liturgia.up.railway.app/20-03
+https://liturgia.up.railway.app/v2/20-03
 ```
 Também retornará a Liturgia do dia 20 do mês de março.
 
